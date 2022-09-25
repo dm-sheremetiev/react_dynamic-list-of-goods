@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,SAAqB","file":"main.74686631.chunk.css","sourcesContent":[".red {\n  color: rgb(255, 0, 0);\n}\n"]}
